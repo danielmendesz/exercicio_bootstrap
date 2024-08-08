@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(223, 223, 223);
+}
+
+.container {
+    background-color: #fff;
+    max-width: 50%;
+    margin-top: 32px;
+}
+
+button {
+    margin: 10px 0;
+}
